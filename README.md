@@ -1,5 +1,5 @@
 
-# Jashn: Event Manager for Clubs and Societies
+# Jashn: Event Manager for Clubs and Societies [OnCode]
 
 ## Project Overview
 
