@@ -142,7 +142,7 @@ Create a pull request on GitHub.
 - [Debankur Dutta](https://github.com/Debankur04)
 - [Snigdho Bachar](https://github.com/Hacks2killsnigdho)
 - [Anuska Kapuria](https://github.com/Anuska1312)
-- [Debashish Mitra](https://github.com/Debashismitra01)
+- [Debashis Mitra](https://github.com/Debashismitra01)
 
 
 ## Contact
